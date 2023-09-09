@@ -19,7 +19,7 @@ def hello_world():
                 "current_day": current_weekday,
                 "utc_time": utc_time,
                 "track": track,
-                "github_file_url": "https://github.com/nattygold/",
+                "github_file_url": "https://github.com/NattyGold/HNG-Create-Endpoint-Api-Deploy-Stage1/blob/master/app.py",
                 "github_repo_url": "https://github.com/NattyGold/HNG_Create-End-Point-API-Deploy-Stage1",
                 "status_code": 200
      })
